@@ -1,0 +1,14 @@
+Lines: 7
+Words (without stopwords): 71
+No of Charater: 574
+Most common words:
+lorem: 4
+ipsum: 4
+it: 3
+dummy: 2
+text: 2
+typesetting: 2
+has: 2
+type: 2
+simply: 1
+printing: 1
