@@ -1,0 +1,5 @@
+[2025-09-11 10:22:01] INFO User John logged in
+[2025-09-11 10:23:45] ERROR Database connection failed
+[2025-09-11 10:24:02] INFO User Alice logged in
+[2025-09-11 10:25:12] ERROR File not found
+[2025-09-11 11:10:11] INFO User John logged in
